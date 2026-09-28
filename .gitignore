@@ -35,3 +35,4 @@ coverage/
 
 # ShopSense local data
 backend/data/*.json
+data/*.json
